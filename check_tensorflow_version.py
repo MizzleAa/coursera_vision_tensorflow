@@ -13,3 +13,4 @@ from tensorflow.keras.applications.resnet50 import ResNet50
 from matplotlib import pyplot as plt
 
 print("Tensorflow version " + tf.__version__)
+
